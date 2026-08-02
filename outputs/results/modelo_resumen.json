@@ -1,0 +1,5 @@
+{
+    "model_type": "VECM",
+    "coint_rank": 2,
+    "lags": 2
+}
